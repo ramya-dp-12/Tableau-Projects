@@ -1,12 +1,10 @@
-Tableau public link: https://public.tableau.com/app/profile/ramyadevipriya.yogeeswaran/viz/PortfolioProject01_17341122603910/SalesDashboard
-![Screenshot 2025-03-05 130832](https://github.com/user-attachments/assets/8f6e6965-7acf-4edc-8452-12f9298f7366)
-
 # Sales Data Exploration and Dashboard
 
 In today's fast-paced business environment, the need for accessible, reliable sales data is critical for informed decision-making. The Sales Data Exploration and Dashboard project aims to provide a comprehensive analysis and visualization platform for understanding sales performance and trends. Leveraging datasets from various sources, the project utilized SQL data exploration techniques to extract insights and develop a Tableau dashboard. By offering stakeholders a user-friendly interface to explore key metrics such as sales revenue, profit, and customer demographics, the project empowers data-driven decision-making and fosters strategic planning.
 
 ## Access the live dashboard on Tableau Public
 [Sales Dashboard](https://public.tableau.com/app/profile/ramyadevipriya.yogeeswaran/viz/PortfolioProject01_17341122603910/SalesDashboard)
+![Screenshot 2025-03-05 130832](https://github.com/user-attachments/assets/8f6e6965-7acf-4edc-8452-12f9298f7366)
 
 ## Project Overview
 This document serves as documentation for the Sales Data Exploration and Dashboard project, which aimed to analyze and visualize sales-related data. The project involved SQL data exploration, table creation, data cleaning, and the development of a comprehensive dashboard using Tableau.
